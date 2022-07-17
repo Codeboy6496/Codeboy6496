@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Codeboy6496
 - 👀 I’m interested in all languages😏
-- 🌱 I’m currently learning C language
+- 🌱 I’m currently learning JAVA
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me : nmakwana496@gmail.com
 
